@@ -1,4 +1,4 @@
-Branched from [Leibniz vs Newton comparison](/c/68bd3310-51a4-8324-b240-9bd3382d1c40)
+Branched from [Leibniz vs Newton comparison](https://github.com/n5ro/gold/blob/main/Leibniz.md))
 
 ##### You said:
 
